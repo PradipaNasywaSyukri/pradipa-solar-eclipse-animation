@@ -36,11 +36,11 @@ body {
 
 @keyframes gerakan-bulan {
   0% {
-    left: 160px;
+    left: 170px;
   }
 
   100% {
-    left: -160px;
+    left: -170px;
   }
 }
 
